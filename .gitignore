@@ -1,0 +1,5 @@
+# Ignore the example_folder and all its contents
+docker-volumes/
+
+# Ignore all .log files in any folder
+*.log
